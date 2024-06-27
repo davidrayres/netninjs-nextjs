@@ -54,7 +54,7 @@ nav span {
   @apply text-gray-500;
 }
 nav a:hover {
-  @apply text-black;
+  @apply text-primary;
 }
 main nav {
   @apply border-0;
